@@ -1,0 +1,7 @@
+{
+  "name": "pariii",
+  "description": "A production-grade catering and event staffing platform for worker enrollment, job allocation, and earnings tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
